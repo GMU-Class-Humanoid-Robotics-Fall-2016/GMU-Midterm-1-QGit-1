@@ -12,5 +12,16 @@ git add midterm1.txt
 git commit -am "created branch qrstuv"
 git push origin qrstuv
 
+git checkout -b midterm1
+nano ReadMe.txt
+git add ReadMe.txt
+git commit -am "created branch ......"
+git push origin midterm1
 
- 
+git checkout -b hijklmno
+nano midterm1.txt
+git add mid*
+git commit -am "i forget"
+git push origin hijklmno
+
+
