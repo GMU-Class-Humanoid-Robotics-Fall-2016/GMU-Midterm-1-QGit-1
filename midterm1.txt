@@ -1,1 +1,16 @@
+git clone https://github.com/cwilhelmi/GMU-Midterm-1-QGit.git
+
+git checkout -b abcdefg
+nano midterm1.txt
+git add *
+git commit -am "created branch abcdefg"
+git push origin abcdefg
+
+git checkout -b qrstuv
+nano midterm1.txt
+git add midterm1.txt
+git commit -am "created branch qrstuv"
+git push origin qrstuv
+
+
  
